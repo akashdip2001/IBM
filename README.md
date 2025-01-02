@@ -183,3 +183,8 @@ int main() {
 
 ![Screenshot 2025-01-02 022543](https://github.com/user-attachments/assets/f98e7cc1-ffb3-4d01-8996-46fe919a8efe)
 ![Screenshot (914)](https://github.com/user-attachments/assets/cfcc41c0-2fe7-4a94-842f-a489f52a68b7)
+
+---
+
+| [Video](https://youtu.be/1l0BxUFfgDw) |
+| --- |
